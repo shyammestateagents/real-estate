@@ -3,16 +3,16 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    color: #333;
+    color: white;
+    background-color: #00274D; /* Dark blue background */
 }
 
-/* Navigation */
 header nav ul {
     display: flex;
-    list-style: none;
-    background: #333;
-    padding: 1em;
     justify-content: space-around;
+    list-style: none;
+    background: #001F3F;
+    padding: 1em;
 }
 
 header nav ul li a {
@@ -21,20 +21,21 @@ header nav ul li a {
     font-size: 1.2em;
 }
 
-/* Hero Section */
 .hero {
-    background: url('hero-banner.jpg') no-repeat center center/cover;
+    background: url('images/hero-banner.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
     text-align: center;
 }
 
-.hero-content h1 {
-    font-size: 3em;
-    margin-bottom: 0.5em;
+.cta-button {
+    background: #FFD700;
+    color: #333;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    border-radius: 5px;
 }
 
 .cta-button {
