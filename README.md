@@ -19,12 +19,12 @@ With over **50 years of experience**, we are RERA-certified professionals specia
 ## Project File Structure
 ```
 real-estate/
-├── index.html      # Main HTML file
+├── index.html        # Main HTML file
 ├── testimonials.html # Testimonials page
-├── styles.css      # CSS for styling
-├── chatbot.js      # JavaScript for chatbot
-├── images/         # Folder for all images
-└── README.md       # Project details
+├── styles.css        # CSS for styling
+├── chatbot.js        # JavaScript for chatbot
+├── images/           # Folder for all images
+└── README.md         # Project details
 ```
 
 ## How to Use
