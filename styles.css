@@ -37,16 +37,6 @@ header nav ul li a {
     text-decoration: none;
     border-radius: 5px;
 }
-
-.cta-button {
-    display: inline-block;
-    background: #FFD700;
-    color: #333;
-    padding: 0.5em 1em;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
 /* Listings */
 .listings {
     padding: 2em;
